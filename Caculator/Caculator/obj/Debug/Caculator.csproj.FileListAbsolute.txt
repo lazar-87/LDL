@@ -1,0 +1,7 @@
+C:\Users\ldl\Desktop\programirane C\Caculator\Caculator\bin\Debug\Caculator.exe.config
+C:\Users\ldl\Desktop\programirane C\Caculator\Caculator\bin\Debug\Caculator.exe
+C:\Users\ldl\Desktop\programirane C\Caculator\Caculator\bin\Debug\Caculator.pdb
+C:\Users\ldl\Desktop\programirane C\Caculator\Caculator\obj\Debug\Caculator.csproj.AssemblyReference.cache
+C:\Users\ldl\Desktop\programirane C\Caculator\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+C:\Users\ldl\Desktop\programirane C\Caculator\Caculator\obj\Debug\Caculator.exe
+C:\Users\ldl\Desktop\programirane C\Caculator\Caculator\obj\Debug\Caculator.pdb
